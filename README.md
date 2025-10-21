@@ -53,7 +53,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 
 ### Rules:
 * _Make sure to sign up first to the event website using your GitHub account: [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)_
-* Everyone is welcome! Begginers, veterans, non developpers all around the world!
+* Everyone is welcome! Begginers, veterans, non developers all around the world!
 * All uploaded projects should got into the **_/Projects_** folder inside their dedicated topic folder e.g: **_/Projects/Web/MyAmazingProject_**
 * Always check the repo's **issues** to avoid duplicates
 * Every contribution is welcome (project upload, code fix, design, tutorials, documentation, fixing typos ...etc) but we prefer **quality over quantity** so avoid making 5 PRs to fix 5 obvious grammar mistakes just to get the challenge completed faster.
